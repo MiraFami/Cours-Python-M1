@@ -1,5 +1,4 @@
-# 22000002 Paul Machin
-# 22503743 FAMI Zoumirath 
+
 
 
 # Section 1 : les imports
